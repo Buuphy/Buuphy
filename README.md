@@ -42,5 +42,6 @@ I am an African living in south eastern Nigeria, born 26 years ago on the 24th o
 - [Instagram](https://www.instagram.com/buuphy/)
 - [Linkedin](https://www.linkedin.com/in/buuphy-media/)
 - [Email](Buuphymedia@gmail.com)
+- [My Video portfolio](buuphylabs.my.canva.site)
 
 > Thanks for checking out my work! I’m always open to collaborating, sharing ideas, or helping bring your vision to life.
