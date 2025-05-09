@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hey there!
 I’m Afogu Ebubechukwu Emmanuel<br>
-I am an African living in south eastern Nigeria, born 26 years ago on the 24th of April. I do video things fofr clients around the world and have recently decided to  find myself some working space in the tech space, specifically the DevOps side of things.
+I am an African living in south eastern Nigeria, born 26 years ago on the 24th of April. I do video things for clients around the world and have recently decided to  find myself some working space in the tech space, specifically the DevOps side of things.
 
 ## 🎬 What I Do
 - Short-form video editing for Instagram, TikTok, and YouTube Shorts
